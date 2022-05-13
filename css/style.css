@@ -1,26 +1,41 @@
 body {
     font: 20px ariel, sans-serif;
+
 }
 .navbar {
-    background-color: red;
+    background-color: green; 
+    border-radius: 20px;    
+    }
+
+.image {
+    padding-left: 40px;  
 }
 
 .quem-somos {
     background-color: blue;
     color: white;
+    border-radius: 20px;
+
 }
 
 .margin {
-        padding-bottom: 50px;
+        padding-bottom: 20px;
         padding-top: 10px;
 }
 
 .parceiros {
     background-color: green;
     color: white;
+    border-radius: 20px;
+}
+
+.serviços {
+    background-color: yellow;
+    border-radius: 20px;
 }
 
     .bg-footer {
         background-color: black;
         color: white;
+        border-radius: 20px;
     }
